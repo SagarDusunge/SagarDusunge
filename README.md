@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SagarDusunge
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on web application projects with React.js Node.js
 - 📫 How to reach me sagardusunge.9@gmail.com
 
